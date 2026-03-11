@@ -1,13 +1,15 @@
 A README.md file is essentially the front page of your GitHub repository. Its main purposes are:
 
-Introduction – Explains what your project does.
+1. **Introduction** – Explains what your project does.
 
-Installation Instructions – Guides users on how to set up the project.
+2. **Installation Instructions** – Guides users on how to set up the project.
 
-Usage – Shows examples of how to use the project.
+3. **Usage** – Shows examples of how to use the project.
 
-Features – Highlights key functionalities.
+4. **Features** – Highlights key functionalities.
 
-Contributing – Instructions for those who want to help improve the project.
+5. **Contributing** – Instructions for those who want to help improve the project (optional).
 
-License & Credits – States the licensing and acknowledges contributors.# Test
+6. **License & Credits** – States the licensing and acknowledges contributors.
+
+You can customize your readme **as** **needed**.
